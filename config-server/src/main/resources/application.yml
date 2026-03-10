@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/kodewala-academy/interview-prep.git
+          uri: https://github.com/Anujkumar0708/microservices-configs.git
           default-label: main
           clone-on-start: true 
-          search-paths: configs/18thaug
+          search-paths: configs
